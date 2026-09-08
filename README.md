@@ -43,4 +43,5 @@ random-quote-generator/
 ├── usingapi.js
 └── README.md
 
-Due to CORS so check in your live server!!
+While using the API it is not working, because of CORS so check in your live server!!
+Alternate option: there is another file (practice.js) with fixed number of quotes You can use that..
