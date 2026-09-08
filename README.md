@@ -42,3 +42,5 @@ random-quote-generator/
 ├── practice.js
 ├── usingapi.js
 └── README.md
+
+Due to CORS so check in your live server!!
