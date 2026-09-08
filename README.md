@@ -1,10 +1,10 @@
-# ✨ Random Quote Generator
+# Random Quote Generator
 
 A simple and interactive **Random Quote Generator** built using **HTML, CSS, and JavaScript**.
 
 This project provides two ways to generate quotes:
-- 📚 Quotes from a predefined collection
-- 🌐 Quotes fetched dynamically using an API
+- Quotes from a predefined collection
+- Quotes fetched dynamically using an API
 
 The project also focuses on providing a clean, attractive, and user-friendly interface.
 
